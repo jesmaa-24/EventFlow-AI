@@ -1,0 +1,77 @@
+{
+  "_note": "SAMPLE DATA ONLY. These are illustrative venue records for demo purposes, not live/real-time listings.",
+  "venues": [
+    {
+      "venue_id": "V001",
+      "name": "Anna Auditorium",
+      "location": "Chennai",
+      "capacity": 250,
+      "price": 18000,
+      "type": "indoor",
+      "facilities": ["AC", "Projector", "Sound System", "Parking"]
+    },
+    {
+      "venue_id": "V002",
+      "name": "Marina Open Grounds",
+      "location": "Chennai",
+      "capacity": 500,
+      "price": 15000,
+      "type": "outdoor",
+      "facilities": ["Open Space", "Parking", "Generator Backup"]
+    },
+    {
+      "venue_id": "V003",
+      "name": "Tech Park Convention Hall",
+      "location": "Chennai",
+      "capacity": 200,
+      "price": 22000,
+      "type": "indoor",
+      "facilities": ["AC", "Wi-Fi", "Projector", "Catering Area"]
+    },
+    {
+      "venue_id": "V004",
+      "name": "Greenfield Lawns",
+      "location": "Chennai",
+      "capacity": 300,
+      "price": 12000,
+      "type": "outdoor",
+      "facilities": ["Garden", "Tent Setup", "Parking"]
+    },
+    {
+      "venue_id": "V005",
+      "name": "Coimbatore Grand Hall",
+      "location": "Coimbatore",
+      "capacity": 350,
+      "price": 20000,
+      "type": "indoor",
+      "facilities": ["AC", "Stage", "Sound System"]
+    },
+    {
+      "venue_id": "V006",
+      "name": "Bangalore Tech Arena",
+      "location": "Bangalore",
+      "capacity": 400,
+      "price": 30000,
+      "type": "indoor",
+      "facilities": ["AC", "Wi-Fi", "Projector", "Green Room"]
+    },
+    {
+      "venue_id": "V007",
+      "name": "Chennai Riverside Grounds",
+      "location": "Chennai",
+      "capacity": 180,
+      "price": 9000,
+      "type": "outdoor",
+      "facilities": ["Open Space", "Riverside View"]
+    },
+    {
+      "venue_id": "V008",
+      "name": "Chennai Community Hall",
+      "location": "Chennai",
+      "capacity": 150,
+      "price": 8000,
+      "type": "indoor",
+      "facilities": ["Fans", "Basic Sound System", "Parking"]
+    }
+  ]
+}
